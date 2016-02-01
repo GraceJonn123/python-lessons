@@ -5,3 +5,4 @@ indentation refers to the space  between the margin and the text.
 To edit out a line you use (#), but to edit out amulti lines you use triple quotation marks.(""")
 Arithmetic operations, including +, -, *, /, **, and %
 addition, subtraction, multiplication, division, power of, and modulo(remainder).
+learnt how to make a calculator by adding a few variables, a few multiplications and overriding.
