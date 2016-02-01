@@ -6,3 +6,5 @@ To edit out a line you use (#), but to edit out amulti lines you use triple quot
 Arithmetic operations, including +, -, *, /, **, and %
 addition, subtraction, multiplication, division, power of, and modulo(remainder).
 learnt how to make a calculator by adding a few variables, a few multiplications and overriding.
+Strings are surrounded by ""
+\ is used to to show that its an apostrophe and not to close the string
