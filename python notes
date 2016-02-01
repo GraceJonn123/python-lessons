@@ -1,1 +1,4 @@
 point to note...there are variables in python. You have to set them yourself.
+when you assign a variable eg. my_int = 3, then i override it, my_int = 7, the second variable will be the new value.
+whitespace is used to structure code.You should indent your code with four spaces.
+indentation refers to the space  between the margin and the text.
