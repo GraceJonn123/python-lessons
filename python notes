@@ -8,3 +8,13 @@ addition, subtraction, multiplication, division, power of, and modulo(remainder)
 learnt how to make a calculator by adding a few variables, a few multiplications and overriding.
 Strings are surrounded by ""
 \ is used to to show that its an apostrophe and not to close the string
+
+
+
+you use the dot notation only for strings eg "marry".len()
+integers use len(integer)
+
+raw_imput(hello) will ask on the console hello
+using (%s %)
+this function replaces the statement with the string variable set for it
+{print '%s/%s/%s %s:%s:%s' % (now.month, now.day, now.year, now.hour, now.minute, now.second) }this function is for getting them {mm:dd:yy hh:mm:ss}

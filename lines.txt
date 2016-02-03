@@ -1,0 +1,5 @@
+01. Hello,
+02. How are you?
+03. Tell me,
+04. What's your favourite meal?
+05. Bye, gotta go.
