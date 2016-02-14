@@ -9,3 +9,10 @@ def main():
 		print("a is equal to b")
 
 if __name__ == "__main__": main()
+
+
+#There is a shorter way
+#def main():
+#	if a, b = 5, 8
+#	s = "less than" if a < b else "not less than"
+#
