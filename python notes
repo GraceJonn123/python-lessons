@@ -24,3 +24,7 @@ THe standard whitespace for python is the traditional 4 spaces
 
 The else if in python is elif.
 for any function to work, requires the small details of":.,:"etc."
+Python's regular expression looks like "re".
+
+You could use the try and except method to ediit the
+error message that is printed out
