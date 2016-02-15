@@ -3,7 +3,8 @@ def main():
 
 def testfunc(a, b, c, *args, **kwargs):
     try:
-        for k in args: print(k, args[k])
+        for k in kwargs: print(k, kwargs[k])
     except IndexError:
             print ("Whatever")
+    for n in kwargs: print(n)
 if __name__=="__main__": main()
