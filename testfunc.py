@@ -1,6 +1,6 @@
 def main():
-    testfunc()
-def testfunc():
-    print('THis is a test function')
+    testfunc(100)
+def testfunc(number):
+    print('THis is a test function', number)
 
 if __name__=="__main__": main()
