@@ -1,3 +1,4 @@
+#another metod of bringing back the file
 def main():
     for line in readfile('lines.txt'): print(line.strip())
 def readfile(filename):
