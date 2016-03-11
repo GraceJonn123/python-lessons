@@ -1,4 +1,4 @@
-#a full programme that introduces a prime number
+   #a full programme that introduces a prime number
 def isprime(w):
     if w == 1:
         #one is not prime
